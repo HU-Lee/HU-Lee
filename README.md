@@ -1,4 +1,7 @@
-### Hi there 👋
+#### Slow Programmer : HU-Lee
+
+### ⚠ Currently most code is on my private organization.
+https://github.com/BeaverHouse
 
 <!--
 **HU-Lee/HU-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
