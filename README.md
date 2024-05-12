@@ -8,7 +8,7 @@
 
 🔥 I've been traveling the world of programming for **4 years, since 2021**.
 
-🔭 My main fields are Python and DevOps.
+🔭 My main fields are Python and DevOps. Recently, I've been using NestJS as well.
 
 🚀 Presently, most of my code is in my [private organization](https://github.com/BeaverHouse).
 
