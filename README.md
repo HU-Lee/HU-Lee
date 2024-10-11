@@ -8,11 +8,16 @@
 
 🔥 I've been traveling the world of programming for **4 years, since 2021**.
 
-🔭 My main fields are Python and DevOps. Recently, I've been using NestJS as well.
+🔭 My main fields are DevOps and Backend. I have a huge interest in cloud infrastructure.
 
 🚀 Presently, most of my code is in my [private organization](https://github.com/BeaverHouse).
 
+👀 Visit my LinkedIn or blog for more information!!
+
 <p align="center">
+    <a href="https://www.linkedin.com/in/haulrest/">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+    </a>
     <a href="https://blog.haulrest.me">
         <img alt="Blog" src="./blog.png" />
     </a>
