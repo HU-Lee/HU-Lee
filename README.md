@@ -18,6 +18,8 @@
     <a href="https://www.linkedin.com/in/haulrest/">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
     </a>
+</p>
+<p align="center">
     <a href="https://blog.haulrest.me">
         <img alt="Blog" src="./blog.png" />
     </a>
