@@ -6,7 +6,7 @@
     </a>
 </p>
 
-🔥 I've been traveling the world of programming for **4 years, since 2021**.
+🔥 I've been traveling the world of programming for **5 years, since 2021**.
 
 🔭 My main fields are DevOps and Backend. I have a huge interest in cloud infrastructure.
 
